@@ -5,7 +5,7 @@
     <div>
         <asp:Label ID="Label4" runat="server" Text="Id : "></asp:Label>
                 <asp:TextBox ID="textbox4" runat="server"></asp:TextBox>
-            <asp:Label ID="Label1" runat="server" Text="First_Name : "></asp:Label>
+            <asp:Label ID="Label1" CssClass="" runat="server" Text="First_Name : "></asp:Label>
                 <asp:TextBox ID="textbox1" runat="server"></asp:TextBox>
             <asp:Label ID="Label2" runat="server" Text="Last_Name : "></asp:Label>
                 <asp:TextBox ID="textbox2" runat="server"></asp:TextBox>
